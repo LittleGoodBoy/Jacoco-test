@@ -22,5 +22,4 @@ public class JacocoController {
             return "1111111";
         }
     }
-
 }
